@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4538" started-at="2019-10-11T20:25:44 EDT" finished-at="2019-10-11T20:25:48 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4538" started-at="2019-10-11T20:25:44 EDT" finished-at="2019-10-11T20:25:48 EDT">
+      <class name="restAssuredBDD.Demo6_BasicValidation_Xml">
+        <test-method status="PASS" signature="TestSingleContent()[pri:1, instance:restAssuredBDD.Demo6_BasicValidation_Xml@578486a3]" name="TestSingleContent" duration-ms="2792" started-at="2019-10-11T20:25:44 EDT" finished-at="2019-10-11T20:25:47 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestSingleContent -->
+        <test-method status="PASS" signature="TestMultipleContent()[pri:2, instance:restAssuredBDD.Demo6_BasicValidation_Xml@578486a3]" name="TestMultipleContent" duration-ms="503" started-at="2019-10-11T20:25:47 EDT" finished-at="2019-10-11T20:25:47 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestMultipleContent -->
+        <test-method status="PASS" signature="ContentInOneGo()[pri:3, instance:restAssuredBDD.Demo6_BasicValidation_Xml@578486a3]" name="ContentInOneGo" duration-ms="329" started-at="2019-10-11T20:25:47 EDT" finished-at="2019-10-11T20:25:47 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ContentInOneGo -->
+        <test-method status="PASS" signature="TestUsingXpath()[pri:4, instance:restAssuredBDD.Demo6_BasicValidation_Xml@578486a3]" name="TestUsingXpath" duration-ms="360" started-at="2019-10-11T20:25:47 EDT" finished-at="2019-10-11T20:25:48 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestUsingXpath -->
+        <test-method status="PASS" signature="TestUsingXpath2()[pri:5, instance:restAssuredBDD.Demo6_BasicValidation_Xml@578486a3]" name="TestUsingXpath2" duration-ms="491" started-at="2019-10-11T20:25:48 EDT" finished-at="2019-10-11T20:25:48 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestUsingXpath2 -->
+      </class> <!-- restAssuredBDD.Demo6_BasicValidation_Xml -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
